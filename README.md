@@ -1,5 +1,7 @@
 # Tutorial-ADASSx
-Presented at ADASSx in Tucson, AZ on August 5, 2025
+**What:** Exploring big data efficiently with SPARCL and the Astro Data Lab science platform  
+**When:** August 5, 2025 from 10:30am-12:00pm MST  
+**Where:** Kuiper Space Sciences Lecture Hall (308), University of Arizona
 
 ## Instructions
 1. Register for an Astro Data Lab account here: https://datalab.noirlab.edu/account/register/
