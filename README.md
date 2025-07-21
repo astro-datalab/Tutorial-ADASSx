@@ -1,4 +1,5 @@
 # Tutorial-ADASSx
+Presented at ADASSx in Tucson, AZ on August 5, 2025
 
 ## Instructions
 1. Register for an Astro Data Lab account here: https://datalab.noirlab.edu/account/register/
