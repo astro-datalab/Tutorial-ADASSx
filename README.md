@@ -9,8 +9,11 @@
 3. Launch a terminal instance in JupyterLab and clone the Tutorial-ADASSx repository:  
 ```git clone https://github.com/astro-datalab/Tutorial-ADASSx.git```
 
-## Jupyter notebooks in this repo
-- ...
+## Jupyter notebook in this repo
+- LargeScaleStructureSdssLsDesi.ipynb
+
+## Slides
+- [Shared slides (will become live before event)](https://docs.google.com/presentation/d/1bLTB77aJAzdfplON880x99tf0EMJbdrcQmtINkWLyXs/edit?usp=sharing)
 
 ### Other links
 - Astro Data Lab homepage: https://datalab.noirlab.edu/
