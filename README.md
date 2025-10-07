@@ -10,10 +10,11 @@
 ```git clone https://github.com/astro-datalab/Tutorial-ADASSx.git```
 
 ## Jupyter notebook in this repo
-- LargeScaleStructureSdssLsDesi.ipynb
+- LargeScaleStructureSdssLsDesi.ipynb (notebook with cleared outputs to run along)
+- RENDERED_LargeScaleStructureSdssLsDesi.ipynb (pre-rendered version of the same notebook)
 
 ## Slides
-- [Shared slides (will become live before event)](https://docs.google.com/presentation/d/1bLTB77aJAzdfplON880x99tf0EMJbdrcQmtINkWLyXs/edit?usp=sharing)
+- [Shared slides](https://docs.google.com/presentation/d/1bLTB77aJAzdfplON880x99tf0EMJbdrcQmtINkWLyXs/edit?usp=sharing)
 
 ### Other links
 - Astro Data Lab homepage: https://datalab.noirlab.edu/
